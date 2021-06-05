@@ -65,3 +65,8 @@ Old 영역은 기본적으로 데이터가 가득 차면 GC를 실행한다. GC 
   - 바둑판의 각 영역에 객체를 할당하고 GC를 실행한다.
   - Young 영역과 Old 영역에 대한 개념을 사용하지 않고, 객체를 할당한다.
   - 가장 성능이 좋은 방식
+
+### 참고자료
+
+- https://d2.naver.com/helloworld/1329
+- https://mangkyu.tistory.com/118?category=872426
